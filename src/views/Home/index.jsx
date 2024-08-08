@@ -36,6 +36,7 @@ const Home = memo(() => {
   return (
     <HomeWrapper>
       <HomeBanner></HomeBanner>
+      8888888
       <div className="content">
         {/*     <SectionHeader title={discountInfo.title} subtitle={discountInfo.subtitle}></SectionHeader>
         <SectionTabs tabNames={tabNames} tabClick = { tableClickHandle }></SectionTabs>
